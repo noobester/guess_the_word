@@ -1,6 +1,6 @@
 import random
 #x=["makemytrip","goibibo","saksham","gurleen","vishwas","manish"]
-x=["cyclone","bed","pankaj","entered","sport","antartica","antartica","entered","chloroflorocarbon"]
+x=["cyclone","bed","pankaj","entered","sport","antartica","entered","chloroflorocarbon"]
 #x=["antartica","entered","chloroflorocarbon"]
 #x=["asssssssss"]
 y=random.choice(x)
