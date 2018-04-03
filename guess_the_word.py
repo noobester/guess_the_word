@@ -31,7 +31,7 @@ def user_info():
 
 def next():
     for i in range(30):
-        print "",
+        print "--",
 
 user_info()
 
