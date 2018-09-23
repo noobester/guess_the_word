@@ -1,1 +1,1 @@
-# Gmae - guess_the_word
+# Game - guess_the_word
